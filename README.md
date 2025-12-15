@@ -1,3 +1,5 @@
+EM DESENVOLVIMENTO...
+
 # 📝 Task Manager API
 
 API REST para gerenciamento de tarefas (tasks) com autenticação via JWT, desenvolvida com **Next.js (App Router)**, **TypeScript** e **MySQL**.
