@@ -248,10 +248,5 @@ curl -X DELETE "http://localhost:3000/api/tasks/1" \
 
 ## 👩‍💻 Autor
 
-<<<<<<< HEAD
-Desenvolvido por **Brunna Mattos**  
-Desafio técnico – API de gerenciamento de tarefas
-=======
 Desenvolvido por **Vinicius Ribeiro**  
 Desafio técnico – API de gerenciamento de tarefas
->>>>>>> 070ce02 (feat: implement login page with reusable UI components and API layer)
